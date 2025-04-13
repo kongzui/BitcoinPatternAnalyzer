@@ -1,0 +1,7 @@
+# 로그파일
+data_cache
+
+# 캐시 파일
+.idea
+__pycache__/
+
